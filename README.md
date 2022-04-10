@@ -1,4 +1,4 @@
-Note : To check which bash sheel you're using, just type bash on the terminal.
+#### Note : To check which bash sheel you're using, just type  ```current_path>bash``` on the terminal.
 --------
 
 1. In bash file has an extension of  ```.sh```
